@@ -37,3 +37,4 @@
 16. IN part2-question16.js
 17. The result is [2,4,6]. This is obtained by the following process: the modify array first creates a new array called newArr. The for loop iterates through each element, and on each element the callback is called, which is dosomething. This multiplies each term by 2, and the resulting term is pushed into the new array. Finally, after all elements are pushed we get the resulting function, which is [2,4,6]
 18. IN part2-question18.js
+19. 1, 4, 3, 2 was the printed result with each number on a newline.
