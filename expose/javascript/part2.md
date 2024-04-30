@@ -16,23 +16,23 @@
    d) student['Favorite Teacher'].name <br/>
    e) student.courseLoad[0] <br/>
 13. 
-    a) 32 as number converts to string and + concatenates them
-    b) 1 as - operatore makes the string a number instead
-    c) 3 as null becomes 0 
-    d) 3null as null would be a string and + concatenates
-    e) 4 as the value of true is 1 for numerical purposes and string to int when 3 in an int
-    f) 0 as both false and null are 0 in numerical terms and there are no strings to indicate concatenation
-    g) 3undefined as undefined becomes a string
-    h) NaN as undefined is NaN when it is represented as a number.
+    a) 32 as number converts to string and + concatenates them <br/>
+    b) 1 as - operatore makes the string a number instead <br/>
+    c) 3 as null becomes 0 <br/>
+    d) 3null as null would be a string and + concatenates <br/>
+    e) 4 as the value of true is 1 for numerical purposes and string to int when 3 in an int <br/>
+    f) 0 as both false and null are 0 in numerical terms and there are no strings to indicate concatenation <br/>
+    g) 3undefined as undefined becomes a string <br/>
+    h) NaN as undefined is NaN when it is represented as a number. <br/>
 
 14.
-  a) True as 2 converted to a number and 2>1 is true
-  b) True as alphabetically twelve is before than two, which is what is checked when comparing strings
-  c) True as the types become the same with == , in this case string to number, and compares 2 == 2 which is true
-  d) false as === does not change types, so it compares string to int, which is false
-  e) false as true is represented as 1, which is not equal to 2
-  f) true as boolean 2 should be returning true, according to documentation on google
+  a) True as 2 converted to a number and 2>1 is true <br/>
+  b) True as alphabetically twelve is before than two, which is what is checked when comparing strings <br/>
+  c) True as the types become the same with == , in this case string to number, and compares 2 == 2 which is true <br/>
+  d) false as === does not change types, so it compares string to int, which is false <br/>
+  e) false as true is represented as 1, which is not equal to 2 <br/>
+  f) true as boolean 2 should be returning true, according to documentation on google <br/>
 
-16. == is the equaluty operator that does not care about type as it will automatically convert to the same type. This process is known as type coersion. === is a srict equality operator, which does not perform automatic type swap, and thus requires the values to be equal value and type to return true.
-17. IN part2-question16.js
+15. == is the equaluty operator that does not care about type as it will automatically convert to the same type. This process is known as type coersion. === is a srict equality operator, which does not perform automatic type swap, and thus requires the values to be equal value and type to return true.
+16. IN part2-question16.js
      
