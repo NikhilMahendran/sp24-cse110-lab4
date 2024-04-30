@@ -35,4 +35,5 @@
 
 15. == is the equaluty operator that does not care about type as it will automatically convert to the same type. This process is known as type coersion. === is a srict equality operator, which does not perform automatic type swap, and thus requires the values to be equal value and type to return true.
 16. IN part2-question16.js
-     
+17. The result is [2,4,6]. This is obtained by the following process: the modify array first creates a new array called newArr. The for loop iterates through each element, and on each element the callback is called, which is dosomething. This multiplies each term by 2, and the resulting term is pushed into the new array. Finally, after all elements are pushed we get the resulting function, which is [2,4,6]
+18. IN part2-question18.js
