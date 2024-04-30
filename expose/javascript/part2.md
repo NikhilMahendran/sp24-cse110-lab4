@@ -32,6 +32,7 @@
   d) false as === does not change types, so it compares string to int, which is false
   e) false as true is represented as 1, which is not equal to 2
   f) true as boolean 2 should be returning true, according to documentation on google
-15. == is the equaluty operator that does not care about type as it will automatically convert to the same type. This process is known as type coersion. === is a srict equality operator, which does not perform automatic type swap, and thus requires the values to be equal value and type to return true.
-16. IN part2-question16.js
+
+16. == is the equaluty operator that does not care about type as it will automatically convert to the same type. This process is known as type coersion. === is a srict equality operator, which does not perform automatic type swap, and thus requires the values to be equal value and type to return true.
+17. IN part2-question16.js
      
